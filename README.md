@@ -1,2 +1,2 @@
 # carlpitt.github.io
-# Hello everyone!
+Hello everyone!
